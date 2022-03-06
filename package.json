@@ -2,5 +2,8 @@
     "name": "graphql-boilerplate",
     "workspaces": [
       "ts-server"
-    ]
+    ],
+    "scripts": {
+        
+    }
 }

@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/enokson/graphql-boilerplate/issues"
   },
-  "homepage": "https://github.com/enokson/graphql-boilerplate#readme"
+  "homepage": "https://github.com/enokson/graphql-boilerplate#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "ts-node": "^10.6.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  }
 }
