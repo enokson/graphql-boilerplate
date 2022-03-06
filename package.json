@@ -1,0 +1,6 @@
+{
+    "name": "graphql-boilerplate",
+    "workspaces": [
+      "ts-server"
+    ]
+  }

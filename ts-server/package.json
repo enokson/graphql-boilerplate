@@ -1,0 +1,19 @@
+{
+  "name": "ts-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enokson/graphql-boilerplate.git"
+  },
+  "author": "Joshua Enokson <enoksonprojects@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enokson/graphql-boilerplate/issues"
+  },
+  "homepage": "https://github.com/enokson/graphql-boilerplate#readme"
+}
