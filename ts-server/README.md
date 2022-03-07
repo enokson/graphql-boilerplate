@@ -25,3 +25,5 @@ npx prisma studio
 ```
 npx prisma migrate dev --name "<migration name>"
 ```
+3. update the graphql schema
+4. update the resolvers
