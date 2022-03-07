@@ -4,6 +4,7 @@
       "ts-server"
     ],
     "scripts": {
-        
+        "ts-server:dev": "npm -w ts-server run dev",
+        "ts-server:start": "npm -w ts-server run start"
     }
 }
